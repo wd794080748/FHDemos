@@ -1,0 +1,1 @@
+include ':app', ':360ratingview', ':foregroundservice', ':aidlservice', ':aidlserver'
