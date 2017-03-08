@@ -1,1 +1,1 @@
-include ':app', ':360ratingview', ':foregroundservice', ':aidlservice', ':aidlserver'
+include ':app', ':360ratingview', ':foregroundservice', ':aidlservice', ':aidlserver', ':recyclerview'
